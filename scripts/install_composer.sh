@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd /var/www/html/SymfonyDemo && composer install
+cd /var/www/html/SymfonyDemo && /usr/local/bin/composer install
