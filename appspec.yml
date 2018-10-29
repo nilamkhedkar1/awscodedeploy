@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/SymfonyDemo
+    destination: /var/www/html/awscodedeploy
 hooks:
   AfterInstall:
     - location: scripts/install_composer.sh
